@@ -1,3 +1,7 @@
 .abc {
 	float: left;
 }
+
+.test {
+		position: fixed;
+}
